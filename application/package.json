@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node app"
   },
-  "description": "nodejs-webapp-express",
+  "description": "nodejs-webapp-express-bovino",
   "author": {
     "name": "alagrawa"
   },
